@@ -18,9 +18,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Machine Learning          | <a href="https://">project A</a>|
+| General Linear Regression - R | <a href="https://">Weather Forecast in Basel (R) </a> |
+
+<!--
+
+| Machine Learning | <a href="https://">project A</a> |
 | LLM - RAG | <a href="https://">Project B</a>|
 | Unsupervised Learning         | <a href="https://">Project C</a>|
+
+-->
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -28,6 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Machine Learning
 <div>
     <img src="https://img.shields.io/badge/-Python-00A4EF?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-R-000080?&style=for-the-badge&logo=R&logoColor=white" />
     <img src="https://img.shields.io/badge/-Scikit_Learn-1679A7?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-EF3B2D?&style=for-the-badge&logo=Pandas&logoColor=white" />
 </div>
@@ -44,6 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>

@@ -1,8 +1,6 @@
 # Bruno KUBECZKA
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 As an autonomous and driven technical consultant, I am a professional with extensive experience in supporting businesses with their technical challenges. As an enthusiastic advocate of data-driven transformation, I leverage my Data Scientist skills to promote the adoption of Artificial Intelligence in companies in an ethical and responsible manner.
 
 <!--
@@ -16,9 +14,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| General Linear Regression - R | <a href="https://github.com/bkubeczka/emsbd6-projet-mlg">Weather Forecast in Basel (R) </a> |
+| Project |          | Skills |
+|:----------------------------------------------|:---------------------------|:---|
+| <a href="https://github.com/bkubeczka/emsbd6-projet-mlg">Weather Forecast in Basel</a> | Data analysis - modelisation | General Linear Regression - R |
 
 <!--
 

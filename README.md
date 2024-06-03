@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| General Linear Regression - R | <a href="https://">Weather Forecast in Basel (R) </a> |
+| General Linear Regression - R | <a href="https://github.com/bkubeczka/emsbd6-projet-mlg">Weather Forecast in Basel (R) </a> |
 
 <!--
 

@@ -16,12 +16,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project |          | Skills |
 |:----------------------------------------------|:---------------------------|:---|
-| <a href="https://github.com/bkubeczka/emsbd6-projet-mlg">Weather Forecast in Basel</a> | Data analysis and modelisation in R | General Linear Regression - R |
-| <a href="https://github.com/bkubeczka/actuariat">Actuarial science</a> | Data analysis and modelisation in Python | Python - Pandas - Scikit Learn |
-| <a href="https://github.com/bkubeczka/time_series_job_vacancies">Job vacancies</a> | Time series modelisation in R | R - Time series |
-| <a href="https://github.com/bkubeczka/2017_french_presidential_election">2017 French presidential election analysis</a> | Unsupervised learning in R | Principle Component Analysis (PCA) - Correspondence Factor Analysis (CFA) |
-| <a href="https://github.com/bkubeczka/population_in_paris_area">Study of the population in Paris area</a> | Unsupervised learning in R | Principle Component Analysis (PCA) - Clustering - Change point detection |
-| <a href="https://github.com/bkubeczka/ml_classification_G_vs_B">Socio-professional profiles - relevance of the demand</a> | Machine learning in Python | Python - Scikit Learn - Random Forest - Logistic regression |
+| <a href="https://github.com/bkubeczka/emsbd6-projet-mlg">Weather Forecast in Basel</a> | Data analysis and modelisation in R | <img src="https://img.shields.io/badge/-R-000080?&style=for-the-badge&logo=R&logoColor=white" /></br>General Linear Regression |
+| <a href="https://github.com/bkubeczka/actuariat">Actuarial science</a> | Data analysis and modelisation in Python | <img src="https://img.shields.io/badge/-Python-00A4EF?&style=for-the-badge&logo=python&logoColor=white" /></br><img src="https://img.shields.io/badge/-Pandas-EF3B2D?&style=for-the-badge&logo=Pandas&logoColor=white" /></br><img src="https://img.shields.io/badge/-Scikit_Learn-1679A7?&style=for-the-badge&logo=scikitlearn&logoColor=white" /> |
+| <a href="https://github.com/bkubeczka/time_series_job_vacancies">Job vacancies</a> | Time series modelisation in R | <img src="https://img.shields.io/badge/-R-000080?&style=for-the-badge&logo=R&logoColor=white" /></br> Time series |
+| <a href="https://github.com/bkubeczka/2017_french_presidential_election">2017 French presidential election analysis</a> | Unsupervised learning in R | <img src="https://img.shields.io/badge/-R-000080?&style=for-the-badge&logo=R&logoColor=white" /></br>Principle Component Analysis (PCA)</br>Correspondence Factor Analysis (CFA) |
+| <a href="https://github.com/bkubeczka/population_in_paris_area">Study of the population in Paris area</a> | Unsupervised learning in R | <img src="https://img.shields.io/badge/-R-000080?&style=for-the-badge&logo=R&logoColor=white" /></br>Principle Component Analysis (PCA)</br>Clustering</br>Change point detection |
+| <a href="https://github.com/bkubeczka/ml_classification_G_vs_B">Socio-professional profiles - relevance of the demand</a> | Machine learning in Python | <img src="https://img.shields.io/badge/-Python-00A4EF?&style=for-the-badge&logo=python&logoColor=white" /></br><img src="https://img.shields.io/badge/-Pandas-EF3B2D?&style=for-the-badge&logo=Pandas&logoColor=white" /></br><img src="https://img.shields.io/badge/-Scikit_Learn-1679A7?&style=for-the-badge&logo=scikitlearn&logoColor=white" /></br>Random Forest</br>Logistic regression |
 
 <!--
 
@@ -33,15 +33,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Machine Learning
-<div>
-    <img src="https://img.shields.io/badge/-Python-00A4EF?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-R-000080?&style=for-the-badge&logo=R&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Scikit_Learn-1679A7?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pandas-EF3B2D?&style=for-the-badge&logo=Pandas&logoColor=white" />
-</div>
-
-### Dev Kit
 <div>
     <img src="https://img.shields.io/badge/-GitHub-00A4EF?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-VSCode-4B275F?&style=for-the-badge&logo=vscode&logoColor=white" />

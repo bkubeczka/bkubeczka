@@ -21,10 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | <a href="https://github.com/bkubeczka/time_series_job_vacancies">Job vacancies</a> | Time series modelisation in R | R - Time series |
 | <a href="https://github.com/bkubeczka/2017_french_presidential_election">2017 French presidential election analysis</a> | Unsupervised learning in R | Principle Component Analysis (PCA) - Correspondence Factor Analysis (CFA) |
 | <a href="https://github.com/bkubeczka/population_in_paris_area">Study of the population in Paris area</a> | Unsupervised learning in R | Principle Component Analysis (PCA) - Clustering - Change point detection |
-
-https://github.com/bkubeczka/population_in_paris_area
-
-
+| <a href="https://github.com/bkubeczka/ml_classification_G_vs_B">Socio-professional profiles - relevance of the demand</a> | Machine learning in Python | Python - Scikit Learn - Random Forest - Logistic regression |
 
 <!--
 

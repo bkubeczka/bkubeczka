@@ -18,6 +18,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |:----------------------------------------------|:---------------------------|:---|
 | <a href="https://github.com/bkubeczka/emsbd6-projet-mlg">Weather Forecast in Basel</a> | Data analysis and modelisation in R | General Linear Regression - R |
 | <a href="https://github.com/bkubeczka/actuariat">Actuarial science</a> | Data analysis and modelisation in Python | Python - Pandas - Scikit Learn |
+| <a href="https://github.com/bkubeczka/time_series_job_vacancies">Job vacancies</a> | Time series modelisation in R | R - Time series |
+
+
+
 
 <!--
 

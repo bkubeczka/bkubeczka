@@ -22,7 +22,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | <a href="https://github.com/bkubeczka/2017_french_presidential_election">2017 French presidential election analysis</a> | Unsupervised learning in R | Principle Component Analysis (PCA) - Correspondence Factor Analysis (CFA) |
 
 
-https://github.com/bkubeczka/2017_french_presidential_election
 
 <!--
 
